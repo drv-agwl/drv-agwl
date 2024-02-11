@@ -5,5 +5,6 @@ For complete details about me, visit my website https://drv-agwl.github.io
 
 - 🔭 I’m currently working at the intersection of AI and cell biology
 - 💬 Ask me about anything AI
-- 📫 How to reach me: ...
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/dhruv-ag/) [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/DrvAgwl)
+
 
